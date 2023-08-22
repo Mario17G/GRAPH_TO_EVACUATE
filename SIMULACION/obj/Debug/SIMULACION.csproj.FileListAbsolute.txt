@@ -1,0 +1,13 @@
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\bin\Debug\SIMULACION.exe.config
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\bin\Debug\SIMULACION.exe
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\bin\Debug\SIMULACION.pdb
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.csproj.AssemblyReference.cache
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.SIMULACION.resources
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.TUTORIAL.resources
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.Menu.resources
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.Properties.Resources.resources
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.csproj.GenerateResource.cache
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.exe
+C:\Users\Mario\OneDrive\Documentos\PROGRAMAS\programas en C#\SIMULACION\SIMULACION\obj\Debug\SIMULACION.pdb
