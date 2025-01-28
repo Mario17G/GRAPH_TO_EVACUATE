@@ -5,8 +5,8 @@ The objective of this project is to implement a graph representing the school, w
 
 The nodes of the graph represent classrooms as well as offices and laboratories. The edges of the graph represent hallways and stairs that connect these classrooms to the three safe zones within the school, which are also represented as larger nodes. This is a weighted graph, where the weights signify the number of people in a given path. Using Dijkstra's algorithm, we will determine the shortest path (where there is less crowd concentration) to reach a safe zone.
 
-![GRAPH_TO_EVACUATE](https://github.com/Mario17G/PROJECT_IMAGES/menu.png)
+![GRAPH_TO_EVACUATE](https://raw.githubusercontent.com/Mario17G/PROJECT_IMAGES/main/GRAPH_TO_EVACUATE/menu.png)
 
-![GRAPH_TO_EVACUATE](https://github.com/Mario17G/PROJECT_IMAGES/tutorial.png)
+![GRAPH_TO_EVACUATE](https://raw.githubusercontent.com/Mario17G/PROJECT_IMAGES/main/GRAPH_TO_EVACUATE/tutorial.png)
 
-![GRAPH_TO_EVACUATE](https://github.com/Mario17G/PROJECT_IMAGES/play.png)
+![GRAPH_TO_EVACUATE](https://raw.githubusercontent.com/Mario17G/PROJECT_IMAGES/main/GRAPH_TO_EVACUATE/play.png)
